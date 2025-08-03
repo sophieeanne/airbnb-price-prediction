@@ -1,2 +1,3 @@
 # airbnb-price-prediction
 Ce projet de machine learning a pour but de prédire le prix de logements Airbnb en se basant sur des données existantes comme la localisation, le nombre de chambres,...
+Les fichiers airbnb_test et airbnb_train étant trop grands pour github, vous ne serez pas en mesure d'éxécuter le code. Le notebook .ipynb est présent avec les résultats 
